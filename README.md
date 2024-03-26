@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Faysal065
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me: faysalahmed.anik@gmail.com
 
